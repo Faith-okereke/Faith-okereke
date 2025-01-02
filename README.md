@@ -26,4 +26,5 @@ I specialize in building Real-life Websites and Progressive Web Applications.
 
 -<h2>WakaTIme Stats</h2>
 <p>Here's how much time I've spent writing code in the past days.</p>
+
 [![Okereke Faith's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=girlgroovee)](https://github.com/anuraghazra/github-readme-stats)

@@ -14,5 +14,15 @@ I specialize in building Real-life Websites and Progressive Web Applications.
 
 - ⚡ Fun fact: React is the best thing to happen to JavaScript!
 
+-<h2>My Projects Contibrutions in visuals</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+-<h2>Ny Profile Stats in Visuals</h2>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+-<h2>Top Languages</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+-<h2>WakaTIme Stats</h2>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=girlgroovee)](https://github.com/anuraghazra/github-readme-stats)

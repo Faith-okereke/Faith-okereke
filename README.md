@@ -15,4 +15,4 @@ I specialize in building Real-life Websites and Progressive Web Applications.
 - ⚡ Fun fact: React is the best thing to happen to JavaScript!
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)

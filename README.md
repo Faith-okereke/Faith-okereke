@@ -18,11 +18,12 @@ I specialize in building Real-life Websites and Progressive Web Applications.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
--<h2>Ny Profile Stats in Visuals</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+-<h2>My Profile Stats in Visuals</h2>
+![Okereke Faith's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 -<h2>Top Languages</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 -<h2>WakaTIme Stats</h2>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=girlgroovee)](https://github.com/anuraghazra/github-readme-stats)
+<p>Here's how much time I've spent writing code in the past days.</p>
+[![Okereke Faith's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=girlgroovee)](https://github.com/anuraghazra/github-readme-stats)

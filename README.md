@@ -7,12 +7,21 @@ I specialize in building Real-life Websites and Progressive Web Applications.
 - 👯 I’m looking to collaborate on front end projects
 - 💬 Ask me about problems in JavaScript and front end as a whole.
 - 📫 You can reach me on:
-- <a href="https//www.x.com/girlgroovee">Twitter</a>
-- <a href="https://www.linkedin.com/in/okereke-faith-a464b3238/">LinkedIn</a>
-- <a href="https://medium.com/@faithokereke26">Medium</a>
-- <a href="https//www.facebook.com/Faith Okereke">Facebook<a/>
+  <p align="center">
+  <a href="https://www.youtube.com/c/girlgroovee"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/okereke-faith-a464b3238/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/girlgroovee"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://web.facebook.com/girlgroovee"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://medium.com/@faithokereke26">Medium</a>
 
-- ⚡ Fun fact: React is the best thing to happen to JavaScript!
+</p>
+
+<br/>
+- ⚡ Fun fact: React is the best thing to happen to JavaScript! :relieved:
 
 -<h2>My Projects Contibrutions in visuals</h2>
 

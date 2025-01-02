@@ -1,4 +1,4 @@
-<h1>## Hi there 👋</h1>
+<h1>Hi there 👋</h1>
 My name is Faith Okereke. I am a Front-end web developer with HTML,CSS, JavaScript and ReactJS skills. 
 I specialize in building Real-life Websites and Progressive Web Applications. 
 
